@@ -8,42 +8,48 @@
 </a>
 
 # Projects
+I've done a lot of projects over the years, so I try to keep a current catalogue of them here to make it easier to navigate to them and to know what they're all about from a glance.
+
+## In Progress
+- [VRobot (Title WIP)]()
+- [VCP]()
+
 ## MiDAS
-- Spacemail
-- Scoot
-- VSP
+- [Spacemail]()
+- [Scoot]()
+- [VSP]()
 
 ## Hackathons
-- Wizard's Chess
-- Trash Simulator
-- VoteR
+- [Wizard's Chess]()
+- [Trash Simulator]()
+- [VoteR]()
 
 ## Android Apps
-- Triforce Runner
--  RupeeCatch
-- WeatherWatch
-- ALTTPGPSApp
-- UnitConverterApp
+- [Triforce Runner]()
+- [RupeeCatch]()
+- [Weather Watch]()
+- [A Link to the Past GPS App]()
+- [Unit Converter App]()
   
 ## Games:
-- BlobbyBoy
-- Lightfoot
-- Battlespeak
-- SpaceOut!
+- [Blobby Boy]()
+- [Lightfoot]()
+- [Battlespeak](https://github.com/jordansmithsgames/Battlespeak)
+- [Space Out!](https://github.com/jordansmithsgames/SpaceOut)
   
 ## AI, Algorithms, & Simulators:
-- ReversiAI
-- PathPlanner
-- Flocking
-- Robocode
-- TerrainGenerator
-- PageRank
+- [Reversi AI](https://github.com/jordansmithsgames/ReversiAI)
+- [Path Planner]()
+- [Flocking]()
+- [Robocode] (https://github.com/jordansmithsgames/Robocode)
+- [Terrain Generator](https://github.com/jordansmithsgames/TerrainGenerator)
+- [Page Rank](https://github.com/jordansmithsgames/PageRank)
   
 ## Unique projects!
-- COVID19SpeechAgent
-- PDollar
-- Chomper
-- InstantMessager
+- [COVID-19 Speech Agent]()
+- [$P](https://github.com/jordansmithsgames/PDollar)
+- [Chomper]()
+- [Instant Messager](https://github.com/jordansmithsgames/InstantMessenger) is a peer-to-peer instant messenger (IM) program I developed for my Computer Information and Security class at the University of Florida. There are three interations of the IM: unencrypted, encrypted, and encrypted via the Diffie-Hellman key exchange. They are separated into their own branches to give you an idea of how the program developed and became more secure over time.
 <!--
 **jordansmithsgames/jordansmithsgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
