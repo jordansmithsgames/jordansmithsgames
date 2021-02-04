@@ -22,7 +22,7 @@ Other places you can find me:
 - Uploading my 3D models to [Sketchfab](https://sketchfab.com/jordansmithsgames)
 - Reach out to me at jordan.smiths.games@gmail.com
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
 ## Projects
 I've done a lot of projects over the years, so I try to keep a current catalogue of them here to make it easier to navigate to them and to know what they're all about from a glance.
