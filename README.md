@@ -35,11 +35,11 @@ I've done a lot of projects over the years, so I try to keep a current catalogue
 - [A Link to the Past GPS App](https://github.com/jordansmithsgames/ALTTPGPSApp) is a Legend of Zelda: Link to the Past themed game that utilizes GPS to control the application. Built for teaching purposes for the Wearable Technologies class at UF in the fall of 2020.
 - [Unit Converter App](https://github.com/jordansmithsgames/UnitConverterApp) is a simple unit conversion app that converts units relating to length, weight, and temperature. Built for teaching purposes for the Wearable Technologies class at UF in the fall of 2020.
   
-### Games:
+### 2D Games:
 - [Blobby Boy](https://github.com/jordansmithsgames/BlobbyBoy) is simple 2D platformer level created for DIG6751C assignment. I thought of it as a speedrun in how fast I could design a single level of a game from start to finish. It took me around 3-4 hours to make with all things considered.
 - [Lightfoot](https://github.com/jordansmithsgames/Lightfoot) is a 2D puzzle-platformer where you trick a monster into aiding your escape. It was created by me and [Julian Showen](https://github.com/frardvark) for our senior project at the University of Florida.
 - [Battlespeak](https://github.com/jordansmithsgames/Battlespeak)
-- [Space Out!](https://github.com/jordansmithsgames/SpaceOut) is a sci-fi reimagiinng of the classic Atari game Breakout! It utilizes Processing, a Java-based language, and was created by me for my Introduction to Digital Arts and Sciences class at the University of Florida.
+- [Space Out!](https://github.com/jordansmithsgames/SpaceOut) is a sci-fi reimagiinng of the classic Atari game [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)). It utilizes Processing, a Java-based language, and was created by me for my Introduction to Digital Arts and Sciences class at the University of Florida.
   
 ### AI, Algorithms, & Simulators:
 - [Reversi AI](https://github.com/jordansmithsgames/ReversiAI) is an AI program that plays the game [Reversi](https://en.wikipedia.org/wiki/Reversi) (more commonly known as Othello) that I worked on during my AI for Games class at UF in the spring of 2020. All work done was in StudentAI/StudentAI.cs, where the program's AI algorithms were written by me.
