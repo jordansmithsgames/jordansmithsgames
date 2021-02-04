@@ -11,7 +11,20 @@
 
 My name is Jordan Smith, and I'm an aspiring software and game developer. I'm currently in my final semester at UF as part of the [MiDAS cohort](https://digitalworlds.ufl.edu/programs/ma-in-digital-arts-sciences/student-profiles/), and am actively seeking jobs relating to game design/development and software development that begin after I graduate this May of 2021. You can find me elsewhere on [LinkedIn](https://www.linkedin.com/in/jordansmithsgames/), [Devpost](https://devpost.com/jordansmithsgames), [ArtStation](https://www.artstation.com/jordansmithsgames), and [Sketchfab](https://sketchfab.com/jordansmithsgames). You can also check out [my website](https://www.jordansmithsgames.com/), though please note that it is a heavily WIP project. If you'd like to contact me, feel free to do so anytime at jordan.smiths.games@gmail.com!
 
-# Projects
+<!--
+Here are some of the things I work with often:
+Other places you can find me:
+### Find me at other places!
+- 📄 Working on my [Personal Website](https://www.jordansmithsgames.com/)
+- Connecting with others on [LinkedIn](https://www.linkedin.com/in/jordansmithsgames/)
+- Sharing my hackathon work on [Devpost](https://devpost.com/jordansmithsgames)
+- Collaging my art together at [ArtStation](https://www.artstation.com/jordansmithsgames)
+- Uploading my 3D models to [Sketchfab](https://sketchfab.com/jordansmithsgames)
+- Reach out to me at jordan.smiths.games@gmail.com
+-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
+
+## Projects
 I've done a lot of projects over the years, so I try to keep a current catalogue of them here to make it easier to navigate to them and to know what they're all about from a glance.
 
 ### In Progress
