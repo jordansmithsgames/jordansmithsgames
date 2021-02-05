@@ -25,7 +25,7 @@ Other places you can find me:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
 ## Projects
-**In Progress:** 
+### In Progress
 [![VRobot](https://img.shields.io/badge/🤖%20VRobot%20-FF0)](https://github.com/jordansmithsgames/VRobot) 
 [![VCP](https://img.shields.io/badge/🦷%20VCP%20-FF0)](https://github.com/jordansmithsgames/VCP)
 
@@ -47,18 +47,18 @@ Other places you can find me:
 [![Unit Converter App](https://img.shields.io/badge/📏%20Unit%20Converter%20App%20-006400)](https://github.com/jordansmithsgames/UnitConverterApp)
   	
 ### 2D Games:
-[![Blobby Boy](https://img.shields.io/badge/⚫%20Blobby%20Boy%20-C0C0C0)](https://github.com/jordansmithsgames/BlobbyBoy)
-[![Lightfoot]()](https://github.com/jordansmithsgames/Lightfoot)
-[![Battlespeak]()](https://github.com/jordansmithsgames/Battlespeak)
-[![Space Out!]()](https://github.com/jordansmithsgames/SpaceOut)
+[![Blobby Boy](https://img.shields.io/badge/⚫%20Blobby%20Boy%20-000000)](https://github.com/jordansmithsgames/BlobbyBoy)
+[![Lightfoot](https://img.shields.io/badge/✨%20Lightfoot%20-000000)](https://github.com/jordansmithsgames/Lightfoot)
+[![Battlespeak](https://img.shields.io/badge/⚓%20Battlespeak%20-000000)](https://github.com/jordansmithsgames/Battlespeak)
+[![Space Out!](https://img.shields.io/badge/🛸%20Space%20Out!%20-000000)](https://github.com/jordansmithsgames/SpaceOut)
   
-### AI, Algorithms, & Simulators:
-[![Reversi AI]()](https://github.com/jordansmithsgames/ReversiAI)
-[![Path Planner]()](https://github.com/jordansmithsgames/PathPlanner)
-[![Flocking]()](https://github.com/jordansmithsgames/Flocking)
-[![Robocode]()](https://github.com/jordansmithsgames/Robocode) 
-[![Terrain Generator]()](https://github.com/jordansmithsgames/TerrainGenerator)
-[![Page Rank]()](https://github.com/jordansmithsgames/PageRank)
+### AI, Algorithms, & Simulators: 
+[![Reversi AI](https://img.shields.io/badge/🔮%20Reversi%20AI%20-800080)](https://github.com/jordansmithsgames/ReversiAI)
+[![Path Planner](https://img.shields.io/badge/🗺️%20Path%20Planner%20-800080)](https://github.com/jordansmithsgames/PathPlanner)
+[![Flocking](https://img.shields.io/badge/🕊️%20Flocking%20-800080)](https://github.com/jordansmithsgames/Flocking)
+[![Robocode](https://img.shields.io/badge/🥊%20Robocode%20-800080)](https://github.com/jordansmithsgames/Robocode) 
+[![Terrain Generator](https://img.shields.io/badge/🏔️%20Terrain%20Generator%20-800080)](https://github.com/jordansmithsgames/TerrainGenerator)
+[![Page Rank](https://img.shields.io/badge/🥇%20Page%20Rank%20-800080)](https://github.com/jordansmithsgames/PageRank)
   
 ### Unique projects!
 [![COVID-19 Speech Agent]()](https://github.com/jordansmithsgames/COVID19SpeechAgent)
