@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Jordan
+# Hey there, I'm Jordan! 👋
 
 <!--
 <a href="https://github.com/jordansmithsgames/jordansmithsgames">
@@ -11,6 +11,8 @@
 
 I'm an aspiring software and game developer and I'm currently finishing up my final semester at the University of Florida as part of the [MiDAS cohort](https://digitalworlds.ufl.edu/programs/ma-in-digital-arts-sciences/student-profiles/). I am actively seeking and applying to jobs relating to game design/development and software development.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
+
 ## Contact & Follow Me Here!
 [![](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](https://www.jordansmithsgames.com/)
 [![](https://img.icons8.com/color/50/6EA0FD/gmail.png)](https://www.jordan.smiths.games@gmail.com/)
@@ -18,7 +20,6 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 [![](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://devpost.com/jordansmithsgames)
 [![](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames)
 [![](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://sketchfab.com/jordansmithsgames)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
 ## Browse My Projects!
 ### In Progress
