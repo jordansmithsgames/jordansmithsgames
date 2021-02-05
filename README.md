@@ -13,7 +13,7 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
-## Other places you'll find me
+## Other Webzones I Inhabit
 [![](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](mailto:jordansmithsgames.com?subject=[GitHub]%20Source%20Han%20Sans)
 [![](https://img.icons8.com/color/50/6EA0FD/gmail.png)](https://www.jordan.smiths.games@gmail.com/)
 [![](https://img.icons8.com/color/50/6EA0FD/linkedin.png)](https://www.linkedin.com/in/jordansmithsgames/)
@@ -23,6 +23,10 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 
 ## Languages & Tools
 [![](https://img.icons8.com/color/50/000/c-plus-plus-logo.png)]()
+[![](https://img.icons8.com/color/50/000/c-sharp-logo-2.png)]()
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" width="50" height="50">
+[![](https://img.icons8.com/color/50/000/python.png)]()
+[![](https://img.icons8.com/color/50/000/java.png)]()
 [![](https://img.icons8.com/ios-filled/50/000/unity.png)]()
 [![](https://img.icons8.com/color/50/000/autodesk-maya.png)]()
 
