@@ -46,7 +46,7 @@ Other places you can find me:
 [![A Link to the Past GPS App](https://img.shields.io/badge/🌎%20A%20Link%20to%20the%20Past%20GPS%20App%20-006400)](https://github.com/jordansmithsgames/ALTTPGPSApp)
 [![Unit Converter App](https://img.shields.io/badge/📏%20Unit%20Converter%20App%20-006400)](https://github.com/jordansmithsgames/UnitConverterApp)
   	
-### 2D Games:
+### 2D Games
 [![Blobby Boy](https://img.shields.io/badge/⚫%20Blobby%20Boy%20-000000)](https://github.com/jordansmithsgames/BlobbyBoy)
 [![Lightfoot](https://img.shields.io/badge/✨%20Lightfoot%20-000000)](https://github.com/jordansmithsgames/Lightfoot)
 [![Battlespeak](https://img.shields.io/badge/⚓%20Battlespeak%20-000000)](https://github.com/jordansmithsgames/Battlespeak)
