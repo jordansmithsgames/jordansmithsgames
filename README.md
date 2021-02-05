@@ -1,4 +1,4 @@
-# Hey there, I'm Jordan! 👋
+# Hi, I'm Jordan! 👋
 
 <!--
 <a href="https://github.com/jordansmithsgames/jordansmithsgames">
