@@ -11,24 +11,25 @@
 
 I'm an aspiring software and game developer and I'm currently finishing up my final semester at the University of Florida as part of the [MiDAS cohort](https://digitalworlds.ufl.edu/programs/ma-in-digital-arts-sciences/student-profiles/). I am actively seeking and applying to jobs relating to game design/development and software development.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
-## Other Webzones I Inhabit
-[![](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](mailto:jordansmithsgames.com?subject=[GitHub]%20Source%20Han%20Sans)
-[![](https://img.icons8.com/color/50/6EA0FD/gmail.png)](https://www.jordan.smiths.games@gmail.com/)
-[![](https://img.icons8.com/color/50/6EA0FD/linkedin.png)](https://www.linkedin.com/in/jordansmithsgames/)
-[![](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://www.devpost.com/jordansmithsgames)
-[![](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames)
-[![](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://www.sketchfab.com/jordansmithsgames)
+## More Webzones I Inhabit
+[![Personal Website](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](mailto:jordansmithsgames.com?subject=[GitHub]%20Source%20Han%20Sans "Personal Website")
+[![Email](https://img.icons8.com/color/50/6EA0FD/gmail.png)](https://www.jordan.smiths.games@gmail.com/ "Email")
+[![LinkedIn Profile](https://img.icons8.com/color/50/6EA0FD/linkedin.png)](https://www.linkedin.com/in/jordansmithsgames/ "LinkedIn Profile")
+[![Devpost Profile](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://www.devpost.com/jordansmithsgames "Devpost Profile")
+[![Artstation Profile](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames "Artstation Profile")
+[![Sketchfab Profile](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://www.sketchfab.com/jordansmithsgames "Sketchfab Profile")
 
 ## Languages & Tools
-[![](https://img.icons8.com/color/50/000/c-plus-plus-logo.png)]()
-[![](https://img.icons8.com/color/50/000/c-sharp-logo-2.png)]()
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" width="50" height="50">
-[![](https://img.icons8.com/color/50/000/python.png)]()
-[![](https://img.icons8.com/color/50/000/java.png)]()
-[![](https://img.icons8.com/ios-filled/50/000/unity.png)]()
-[![](https://img.icons8.com/color/50/000/autodesk-maya.png)]()
+![C++](https://img.icons8.com/color/50/000/c-plus-plus-logo.png)
+[![C#](https://img.icons8.com/color/50/000/c-sharp-logo-2.png)]()
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" width="50" height="50" alt="Processing">
+[![Python](https://img.icons8.com/color/50/000/python.png)]()
+[![Java](https://img.icons8.com/color/50/000/java.png)]()
+[![Unity](https://img.icons8.com/ios-filled/50/000/unity.png)]("Unity")
+[![Maya](https://img.icons8.com/color/50/000/autodesk-maya.png)]()
+<img src="/images/SUBSTANCE_ICON.png" width="43.5" height="50" alt="Substance Painter">
 
 ## Browse My Projects
 ### In Progress
