@@ -18,21 +18,9 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 [![](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://devpost.com/jordansmithsgames)
 [![](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames)
 [![](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://sketchfab.com/jordansmithsgames)
-
-<!--
-Here are some of the things I work with often:
-Other places you can find me:
-### Find me at other places!
-- 📄 Working on my [Personal Website](https://www.jordansmithsgames.com/)
-- Connecting with others on [LinkedIn](https://www.linkedin.com/in/jordansmithsgames/)
-- Sharing my hackathon work on [Devpost](https://devpost.com/jordansmithsgames)
-- Collaging my art together at [ArtStation](https://www.artstation.com/jordansmithsgames)
-- Uploading my 3D models to [Sketchfab](https://sketchfab.com/jordansmithsgames)
-- Reach out to me at jordan.smiths.games@gmail.com
--->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
-## Projects
+## Browse My Projects!
 ### In Progress
 [![VRobot](https://img.shields.io/badge/🤖%20VRobot%20-FF0)](https://github.com/jordansmithsgames/VRobot) 
 [![VCP](https://img.shields.io/badge/🦷%20VCP%20-FF0)](https://github.com/jordansmithsgames/VCP)
@@ -60,7 +48,7 @@ Other places you can find me:
 [![Battlespeak](https://img.shields.io/badge/⚓%20Battlespeak%20-000000)](https://github.com/jordansmithsgames/Battlespeak)
 [![Space Out!](https://img.shields.io/badge/🛸%20Space%20Out!%20-000000)](https://github.com/jordansmithsgames/SpaceOut)
   
-### AI, Algorithms, & Simulators: 
+### AI, Algorithms, & Simulators
 [![Reversi AI](https://img.shields.io/badge/🔮%20Reversi%20AI%20-800080)](https://github.com/jordansmithsgames/ReversiAI)
 [![Path Planner](https://img.shields.io/badge/🧭%20Path%20Planner%20-800080)](https://github.com/jordansmithsgames/PathPlanner)
 [![Flocking](https://img.shields.io/badge/🐦%20Flocking%20-800080)](https://github.com/jordansmithsgames/Flocking)
