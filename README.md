@@ -17,9 +17,9 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 [![](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](https://www.jordansmithsgames.com/)
 [![](https://img.icons8.com/color/50/6EA0FD/gmail.png)](https://www.jordan.smiths.games@gmail.com/)
 [![](https://img.icons8.com/color/50/6EA0FD/linkedin.png)](https://www.linkedin.com/in/jordansmithsgames/)
-[![](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://devpost.com/jordansmithsgames)
+[![](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://www.devpost.com/jordansmithsgames)
 [![](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames)
-[![](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://sketchfab.com/jordansmithsgames)
+[![](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://www.sketchfab.com/jordansmithsgames)
 
 ## Browse My Projects!
 ### In Progress
