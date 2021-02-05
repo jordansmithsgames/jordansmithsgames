@@ -36,8 +36,8 @@ Other places you can find me:
 
 ### Hackathons
 [![Wizard's Chess](https://img.shields.io/badge/🧙%20Wizard's%20Chess%20-191970)](https://github.com/jordansmithsgames/WizardsChess)
-[![Trash Simulator](https://img.shields.io/badge/♻️%20Trash%20Simulator%20-191970)](https://github.com/jordansmithsgames/TrashSimulator)
-[![VoteR](https://img.shields.io/badge/🗳️%20VoteR%20-191970)](https://github.com/jordansmithsgames/VoteR)
+[![Trash Simulator](https://img.shields.io/badge/🥤%20Trash%20Simulator%20-191970)](https://github.com/jordansmithsgames/TrashSimulator)
+[![VoteR](https://img.shields.io/badge/📮%20VoteR%20-191970)](https://github.com/jordansmithsgames/VoteR)
 
 ### Android Apps
 [![Triforce Runner](https://img.shields.io/badge/🏃%20Triforce%20Runner%20-006400)](https://github.com/jordansmithsgames/TriforceRunner)
@@ -54,14 +54,14 @@ Other places you can find me:
   
 ### AI, Algorithms, & Simulators: 
 [![Reversi AI](https://img.shields.io/badge/🔮%20Reversi%20AI%20-800080)](https://github.com/jordansmithsgames/ReversiAI)
-[![Path Planner](https://img.shields.io/badge/🗺️%20Path%20Planner%20-800080)](https://github.com/jordansmithsgames/PathPlanner)
-[![Flocking](https://img.shields.io/badge/🕊️%20Flocking%20-800080)](https://github.com/jordansmithsgames/Flocking)
+[![Path Planner](https://img.shields.io/badge/🧭%20Path%20Planner%20-800080)](https://github.com/jordansmithsgames/PathPlanner)
+[![Flocking](https://img.shields.io/badge/🐦%20Flocking%20-800080)](https://github.com/jordansmithsgames/Flocking)
 [![Robocode](https://img.shields.io/badge/🥊%20Robocode%20-800080)](https://github.com/jordansmithsgames/Robocode) 
-[![Terrain Generator](https://img.shields.io/badge/🏔️%20Terrain%20Generator%20-800080)](https://github.com/jordansmithsgames/TerrainGenerator)
+[![Terrain Generator](https://img.shields.io/badge/🗻%20Terrain%20Generator%20-800080)](https://github.com/jordansmithsgames/TerrainGenerator)
 [![Page Rank](https://img.shields.io/badge/🥇%20Page%20Rank%20-800080)](https://github.com/jordansmithsgames/PageRank)
   
 ### Unique projects!
 [![COVID-19 Speech Agent](https://img.shields.io/badge/🦠%20COVID--19%20Speech%20Agent%20-FF1493)](https://github.com/jordansmithsgames/COVID19SpeechAgent)
 [![$P](https://img.shields.io/badge/👋%20$P%20-FF1493)](https://github.com/jordansmithsgames/PDollar)
 [![Chomper](https://img.shields.io/badge/🐊%20Chomper%20-FF1493)](https://github.com/Team-7C/Concessions-App)
-[![Instant Messager](https://img.shields.io/badge/📨%20Instant%20Messenger%20-FF1493)](https://github.com/jordansmithsgames/InstantMessenger)
+[![Instant Messager](https://img.shields.io/badge/🔒%20Instant%20Messenger%20-FF1493)](https://github.com/jordansmithsgames/InstantMessenger)
