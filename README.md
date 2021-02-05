@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey there! 👋 I'm Jordan
 
 <!--
 <a href="https://github.com/jordansmithsgames/jordansmithsgames">
@@ -9,7 +9,15 @@
 </a>
 -->
 
-My name is Jordan Smith, and I'm an aspiring software and game developer. I'm currently in my final semester at UF as part of the [MiDAS cohort](https://digitalworlds.ufl.edu/programs/ma-in-digital-arts-sciences/student-profiles/), and am actively seeking jobs relating to game design/development and software development that begin after I graduate this May of 2021. You can find me elsewhere on [LinkedIn](https://www.linkedin.com/in/jordansmithsgames/), [Devpost](https://devpost.com/jordansmithsgames), [ArtStation](https://www.artstation.com/jordansmithsgames), and [Sketchfab](https://sketchfab.com/jordansmithsgames). You can also check out [my website](https://www.jordansmithsgames.com/), though please note that it is a heavily WIP project. If you'd like to contact me, feel free to do so anytime at jordan.smiths.games@gmail.com!
+I'm an aspiring software and game developer and I'm currently finishing up my final semester at the University of Florida as part of the [MiDAS cohort](https://digitalworlds.ufl.edu/programs/ma-in-digital-arts-sciences/student-profiles/). I am actively seeking and applying to jobs relating to game design/development and software development.
+
+## Contact & Follow Me Here!
+[![](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](https://www.jordansmithsgames.com/)
+[![](https://img.icons8.com/color/50/6EA0FD/gmail.png)](https://www.jordan.smiths.games@gmail.com/)
+[![](https://img.icons8.com/color/50/6EA0FD/linkedin.png)](https://www.linkedin.com/in/jordansmithsgames/)
+[![](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://devpost.com/jordansmithsgames)
+[![](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames)
+[![](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://sketchfab.com/jordansmithsgames)
 
 <!--
 Here are some of the things I work with often:
