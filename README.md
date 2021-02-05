@@ -13,15 +13,20 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
-## Contact & Follow Me Here!
-[![](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](https://www.jordansmithsgames.com/)
+## Other places you'll find me
+[![](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](mailto:jordansmithsgames.com?subject=[GitHub]%20Source%20Han%20Sans)
 [![](https://img.icons8.com/color/50/6EA0FD/gmail.png)](https://www.jordan.smiths.games@gmail.com/)
 [![](https://img.icons8.com/color/50/6EA0FD/linkedin.png)](https://www.linkedin.com/in/jordansmithsgames/)
 [![](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://www.devpost.com/jordansmithsgames)
 [![](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames)
 [![](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://www.sketchfab.com/jordansmithsgames)
 
-## Browse My Projects!
+## Languages & Tools
+[![](https://img.icons8.com/color/50/000/c-plus-plus-logo.png)]()
+[![](https://img.icons8.com/ios-filled/50/000/unity.png)]()
+[![](https://img.icons8.com/color/50/000/autodesk-maya.png)]()
+
+## Browse My Projects
 ### In Progress
 [![VRobot](https://img.shields.io/badge/🤖%20VRobot%20-FF0)](https://github.com/jordansmithsgames/VRobot) 
 [![VCP](https://img.shields.io/badge/🦷%20VCP%20-FF0)](https://github.com/jordansmithsgames/VCP)
