@@ -42,7 +42,7 @@ Other places you can find me:
 ### Android Apps
 [![Triforce Runner](https://img.shields.io/badge/🏃%20Triforce%20Runner%20-006400)](https://github.com/jordansmithsgames/TriforceRunner)
 [![RupeeCatch](https://img.shields.io/badge/💰%20Rupee%20Catch%20-006400)](https://github.com/jordansmithsgames/RupeeCatch)
-[![Weather Watch](https://img.shields.io/badge/❄️%20Weather%20Watch%20-006400)](https://github.com/jordansmithsgames/WeatherWatch)
+[![Weather Watch](https://img.shields.io/badge/❄️Weather%20Watch%20-006400)](https://github.com/jordansmithsgames/WeatherWatch)
 [![A Link to the Past GPS App](https://img.shields.io/badge/🌎%20A%20Link%20to%20the%20Past%20GPS%20App%20-006400)](https://github.com/jordansmithsgames/ALTTPGPSApp)
 [![Unit Converter App](https://img.shields.io/badge/📏%20Unit%20Converter%20App%20-006400)](https://github.com/jordansmithsgames/UnitConverterApp)
   	
@@ -61,7 +61,7 @@ Other places you can find me:
 [![Page Rank](https://img.shields.io/badge/🥇%20Page%20Rank%20-800080)](https://github.com/jordansmithsgames/PageRank)
   
 ### Unique projects!
-[![COVID-19 Speech Agent]()](https://github.com/jordansmithsgames/COVID19SpeechAgent)
-[![$P]()](https://github.com/jordansmithsgames/PDollar)
-[![Chomper]()](https://github.com/Team-7C/Concessions-App)
-[![Instant Messager]()](https://github.com/jordansmithsgames/InstantMessenger)
+[![COVID-19 Speech Agent](https://img.shields.io/badge/🦠%20COVID--19%20Speech%20Agent%20-FF1493)](https://github.com/jordansmithsgames/COVID19SpeechAgent)
+[![$P](https://img.shields.io/badge/👋%20$P%20-FF1493)](https://github.com/jordansmithsgames/PDollar)
+[![Chomper](https://img.shields.io/badge/🐊%20Chomper%20-FF1493)](https://github.com/Team-7C/Concessions-App)
+[![Instant Messager](https://img.shields.io/badge/📨%20Instant%20Messenger%20-FF1493)](https://github.com/jordansmithsgames/InstantMessenger)
