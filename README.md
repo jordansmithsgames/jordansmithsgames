@@ -28,7 +28,7 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 [![Python](https://img.icons8.com/color/50/000/python.png)]()
 [![Java](https://img.icons8.com/color/50/000/java.png)]()
 [![Unity](https://img.icons8.com/ios-filled/50/000/unity.png)]("Unity")
-[![Maya](https://img.icons8.com/color/50/000/autodesk-maya.png)]()
+[![Maya](https://img.icons8.com/color/50/000/autodesk-maya.png)](google.com)
 <img src="/images/SUBSTANCE_ICON.png" width="43.5" height="50" alt="Substance Painter">
 
 ## Browse My Projects
