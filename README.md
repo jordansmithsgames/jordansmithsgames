@@ -25,57 +25,43 @@ Other places you can find me:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
 ## Projects
-### In Progress
-- [VRobot](https://github.com/jordansmithsgames/VRobot)
-- [VCP](https://github.com/jordansmithsgames/VCP)
+**In Progress:** 
+[![VRobot](https://img.shields.io/badge/🤖%20VRobot%20-FF0)](https://github.com/jordansmithsgames/VRobot) 
+[![VCP](https://img.shields.io/badge/🦷%20VCP%20-FF0)](https://github.com/jordansmithsgames/VCP)
 
 ### MiDAS
-- [Spacemail](https://github.com/jordansmithsgames/Spacemail)
-- [Scoot](https://github.com/jordansmithsgames/Scoot) is a VR electric scooter and road rules educational program that was developed by me and the UF MiDAS cohort for our Entertainment Technology class in the fall of 2020.
-- [VSP](https://github.com/jordansmithsgames/VSP) is a mixed reality dentist-patient interaction application developed by the me and the UF MiDAS cohort for our Digital Arts and Sciences Convergence class in the fall of 2020.
+[![Spacemail](https://img.shields.io/badge/🚀%20Spacemail%20-800000)](https://github.com/jordansmithsgames/Spacemail)
+[![Scoot](https://img.shields.io/badge/🛵%20Scoot%20-800000)](https://github.com/jordansmithsgames/Scoot)
+[![VSP](https://img.shields.io/badge/💬%20VSP%20-800000)](https://github.com/jordansmithsgames/VSP)
 
 ### Hackathons
-- [Wizard's Chess](https://github.com/jordansmithsgames/WizardsChess)
-- [Trash Simulator](https://github.com/jordansmithsgames/TrashSimulator)
-- [VoteR](https://github.com/jordansmithsgames/VoteR)
+[![Wizard's Chess](https://img.shields.io/badge/🧙%20Wizard's%20Chess%20-191970)](https://github.com/jordansmithsgames/WizardsChess)
+[![Trash Simulator](https://img.shields.io/badge/♻️%20Trash%20Simulator%20-191970)](https://github.com/jordansmithsgames/TrashSimulator)
+[![VoteR](https://img.shields.io/badge/🗳️%20VoteR%20-191970)](https://github.com/jordansmithsgames/VoteR)
 
 ### Android Apps
-- [Triforce Runner](https://github.com/jordansmithsgames/TriforceRunner) is a Legend of Zelda themed endless runner app. Built for teaching purposes for the Wearable Technologies class at UF in the fall of 2020.
-- [RupeeCatch](https://github.com/jordansmithsgames/RupeeCatch) is a Legend of Zelda themed accelerometer game that utilizes the accelerometer sensor for controls. Built for teaching purposes for the Wearable Technologies class at UF in the fall of 2020.
-- [Weather Watch](https://github.com/jordansmithsgames/WeatherWatch) is a WearOS watch face app that changes the watch face in response to changes in temperature. Built for teaching purposes for the Wearable Technologies class at UF in the fall of 2020.
-- [A Link to the Past GPS App](https://github.com/jordansmithsgames/ALTTPGPSApp) is a Legend of Zelda: Link to the Past themed game that utilizes GPS to control the application. Built for teaching purposes for the Wearable Technologies class at UF in the fall of 2020.
-- [Unit Converter App](https://github.com/jordansmithsgames/UnitConverterApp) is a simple unit conversion app that converts units relating to length, weight, and temperature. Built for teaching purposes for the Wearable Technologies class at UF in the fall of 2020.
-  
+[![Triforce Runner](https://img.shields.io/badge/🏃%20Triforce%20Runner%20-006400)](https://github.com/jordansmithsgames/TriforceRunner)
+[![RupeeCatch](https://img.shields.io/badge/💰%20Rupee%20Catch%20-006400)](https://github.com/jordansmithsgames/RupeeCatch)
+[![Weather Watch](https://img.shields.io/badge/❄️%20Weather%20Watch%20-006400)](https://github.com/jordansmithsgames/WeatherWatch)
+[![A Link to the Past GPS App](https://img.shields.io/badge/🌎%20A%20Link%20to%20the%20Past%20GPS%20App%20-006400)](https://github.com/jordansmithsgames/ALTTPGPSApp)
+[![Unit Converter App](https://img.shields.io/badge/📏%20Unit%20Converter%20App%20-006400)](https://github.com/jordansmithsgames/UnitConverterApp)
+  	
 ### 2D Games:
-- [Blobby Boy](https://github.com/jordansmithsgames/BlobbyBoy) is simple 2D platformer level created for DIG6751C assignment. I thought of it as a speedrun in how fast I could design a single level of a game from start to finish. It took me around 3-4 hours to make with all things considered.
-- [Lightfoot](https://github.com/jordansmithsgames/Lightfoot) is a 2D puzzle-platformer where you trick a monster into aiding your escape. It was created by me and [Julian Showen](https://github.com/frardvark) for our senior project at the University of Florida.
-- [Battlespeak](https://github.com/jordansmithsgames/Battlespeak)
-- [Space Out!](https://github.com/jordansmithsgames/SpaceOut) is a sci-fi reimagiinng of the classic Atari game [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)). It utilizes Processing, a Java-based language, and was created by me for my Introduction to Digital Arts and Sciences class at the University of Florida.
+[![Blobby Boy](https://img.shields.io/badge/⚫%20Blobby%20Boy%20-C0C0C0)](https://github.com/jordansmithsgames/BlobbyBoy)
+[![Lightfoot]()](https://github.com/jordansmithsgames/Lightfoot)
+[![Battlespeak]()](https://github.com/jordansmithsgames/Battlespeak)
+[![Space Out!]()](https://github.com/jordansmithsgames/SpaceOut)
   
 ### AI, Algorithms, & Simulators:
-- [Reversi AI](https://github.com/jordansmithsgames/ReversiAI) is an AI program that plays the game [Reversi](https://en.wikipedia.org/wiki/Reversi) (more commonly known as Othello) that I worked on during my AI for Games class at UF in the spring of 2020. All work done was in StudentAI/StudentAI.cs, where the program's AI algorithms were written by me.
-- [Path Planner](https://github.com/jordansmithsgames/PathPlanner) is an AI-based path planner program that I worked on during my AI for Games class at UF in the spring of 2020. All work done was in the PathSearch class files, where the program's AI algorithms were written by me.
-- [Flocking](https://github.com/jordansmithsgames/Flocking) is a flocking AI program that I worked on during my AI for Games class at UF in the spring of 2020. All work was done in Flocking.cs, where the program's AI algorithms were written by me.
-- [Robocode](https://github.com/jordansmithsgames/Robocode) 
-- [Terrain Generator](https://github.com/jordansmithsgames/TerrainGenerator) is a terrain generator program that utilizes random walk functionality to generate terrain tiles in a highly customizable way. It utilizes Processing, a Java-based language, and was created for my Introduction to Digital Arts and Sciences class at UF in the fall of 2018.
-- [Page Rank](https://github.com/jordansmithsgames/PageRank) is a simple algorithm program that demonstrates how the Google page rank algorithm worked when it was first created. It was created for my Data Structures class at UF in the fall of 2018.
+[![Reversi AI]()](https://github.com/jordansmithsgames/ReversiAI)
+[![Path Planner]()](https://github.com/jordansmithsgames/PathPlanner)
+[![Flocking]()](https://github.com/jordansmithsgames/Flocking)
+[![Robocode]()](https://github.com/jordansmithsgames/Robocode) 
+[![Terrain Generator]()](https://github.com/jordansmithsgames/TerrainGenerator)
+[![Page Rank]()](https://github.com/jordansmithsgames/PageRank)
   
 ### Unique projects!
-- [COVID-19 Speech Agent](https://github.com/jordansmithsgames/COVID19SpeechAgent)
-- [$P](https://github.com/jordansmithsgames/PDollar)
-- [Chomper](https://github.com/Team-7C/Concessions-App)
-- [Instant Messager](https://github.com/jordansmithsgames/InstantMessenger) is a peer-to-peer instant messenger (IM) program I developed for my Computer Information and Security class at the University of Florida. There are three interations of the IM: unencrypted, encrypted, and encrypted via the Diffie-Hellman key exchange. They are separated into their own branches to give you an idea of how the program developed and became more secure over time.
-<!--
-**jordansmithsgames/jordansmithsgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![COVID-19 Speech Agent]()](https://github.com/jordansmithsgames/COVID19SpeechAgent)
+[![$P]()](https://github.com/jordansmithsgames/PDollar)
+[![Chomper]()](https://github.com/Team-7C/Concessions-App)
+[![Instant Messager]()](https://github.com/jordansmithsgames/InstantMessenger)
