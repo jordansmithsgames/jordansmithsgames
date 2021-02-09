@@ -46,13 +46,15 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 [![Trash Simulator](https://img.shields.io/badge/🥤%20Trash%20Simulator%20-191970)](https://github.com/jordansmithsgames/TrashSimulator)
 [![VoteR](https://img.shields.io/badge/📮%20VoteR%20-191970)](https://github.com/jordansmithsgames/VoteR)
 
+<!--
 ### Android Apps
 [![Triforce Runner](https://img.shields.io/badge/🏃%20Triforce%20Runner%20-006400)](https://github.com/jordansmithsgames/TriforceRunner)
 [![RupeeCatch](https://img.shields.io/badge/💰%20Rupee%20Catch%20-006400)](https://github.com/jordansmithsgames/RupeeCatch)
 [![Weather Watch](https://img.shields.io/badge/❄️Weather%20Watch%20-006400)](https://github.com/jordansmithsgames/WeatherWatch)
 [![A Link to the Past GPS App](https://img.shields.io/badge/🌎%20A%20Link%20to%20the%20Past%20GPS%20App%20-006400)](https://github.com/jordansmithsgames/ALTTPGPSApp)
 [![Unit Converter App](https://img.shields.io/badge/📏%20Unit%20Converter%20App%20-006400)](https://github.com/jordansmithsgames/UnitConverterApp)
-  	
+-->
+
 ### 2D Games
 [![Blobby Boy](https://img.shields.io/badge/⚫%20Blobby%20Boy%20-000000)](https://github.com/jordansmithsgames/BlobbyBoy)
 [![Lightfoot](https://img.shields.io/badge/✨%20Lightfoot%20-000000)](https://github.com/jordansmithsgames/Lightfoot)
@@ -62,8 +64,7 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 ### AI, Algorithms, & Simulators
 [![Reversi AI](https://img.shields.io/badge/🔮%20Reversi%20AI%20-800080)](https://github.com/jordansmithsgames/ReversiAI)
 [![Path Planner](https://img.shields.io/badge/🧭%20Path%20Planner%20-800080)](https://github.com/jordansmithsgames/PathPlanner)
-[![Flocking](https://img.shields.io/badge/🐦%20Flocking%20-800080)](https://github.com/jordansmithsgames/Flocking)
-[![Robocode](https://img.shields.io/badge/🥊%20Robocode%20-800080)](https://github.com/jordansmithsgames/Robocode) 
+[![Flocking](https://img.shields.io/badge/🐦%20Flocking%20-800080)](https://github.com/jordansmithsgames/Flocking) <!--[![Robocode](https://img.shields.io/badge/🥊%20Robocode%20-800080)](https://github.com/jordansmithsgames/Robocode) -->
 [![Terrain Generator](https://img.shields.io/badge/🗻%20Terrain%20Generator%20-800080)](https://github.com/jordansmithsgames/TerrainGenerator)
 [![Page Rank](https://img.shields.io/badge/🥇%20Page%20Rank%20-800080)](https://github.com/jordansmithsgames/PageRank)
   
