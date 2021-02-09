@@ -66,7 +66,7 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 [![Path Planner](https://img.shields.io/badge/🧭%20Path%20Planner%20-800080)](https://github.com/jordansmithsgames/PathPlanner)
 [![Flocking](https://img.shields.io/badge/🐦%20Flocking%20-800080)](https://github.com/jordansmithsgames/Flocking) <!--[![Robocode](https://img.shields.io/badge/🥊%20Robocode%20-800080)](https://github.com/jordansmithsgames/Robocode) -->
 [![Terrain Generator](https://img.shields.io/badge/🗻%20Terrain%20Generator%20-800080)](https://github.com/jordansmithsgames/TerrainGenerator)
-[![Page Rank](https://img.shields.io/badge/🥇%20Page%20Rank%20-800080)](https://github.com/jordansmithsgames/PageRank)
+<!--[![Page Rank](https://img.shields.io/badge/🥇%20Page%20Rank%20-800080)](https://github.com/jordansmithsgames/PageRank)-->
   
 ### Unique projects!
 [![COVID-19 Speech Agent](https://img.shields.io/badge/🦠%20COVID--19%20Speech%20Agent%20-FF1493)](https://github.com/jordansmithsgames/COVID19SpeechAgent)
