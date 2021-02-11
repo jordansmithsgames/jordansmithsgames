@@ -15,7 +15,7 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 
 ## More Webzones I Inhabit
 [![Personal Website](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](https://www.jordansmithsgames.com/ "Personal Website")
-[![Email](https://img.icons8.com/color/50/6EA0FD/gmail.png)](mailto:jordansmithsgames@gmail.com?subject=[GitHub]%20Source%20Han%20Sans "Email")
+[![Email](https://img.icons8.com/color/50/6EA0FD/gmail.png)](mailto:jordansmithsgames@gmail.com?subject="Hi Jordan!" "Email")
 [![LinkedIn Profile](https://img.icons8.com/color/50/6EA0FD/linkedin.png)](https://www.linkedin.com/in/jordansmithsgames/ "LinkedIn Profile")
 [![Devpost Profile](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://www.devpost.com/jordansmithsgames "Devpost Profile")
 [![Artstation Profile](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames "Artstation Profile")
