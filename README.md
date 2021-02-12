@@ -32,6 +32,9 @@ I'm an aspiring software and game developer and I'm currently finishing up my fi
 <a href="https://www.substance3d.com/products/substance-painter/"><img src="/images/SUBSTANCE_ICON.png" width="43.5" height="50" alt="Substance Painter"></a>
 
 ## Browse My Projects
+### For Virtuix!
+[![Virtuix](https://img.shields.io/badge/🥽%20Virtuix%20-006400)](https://github.com/jordansmithsgames/Virtuix)
+
 ### In Progress
 [![VRobot](https://img.shields.io/badge/🤖%20VRobot%20-FF0)](https://github.com/jordansmithsgames/VRobot) 
 [![VCP](https://img.shields.io/badge/🦷%20VCP%20-FF0)](https://github.com/jordansmithsgames/VCP)
