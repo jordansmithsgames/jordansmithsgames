@@ -8,8 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordansmithsgames&show_icons=true&line_height=27&count_private=true&theme=dracula"/>
 </a>
 -->
-
-I'm an aspiring software and game developer and I'm currently finishing up my final semester at the University of Florida as part of the [MiDAS cohort](https://digitalworlds.ufl.edu/programs/ma-in-digital-arts-sciences/student-profiles/). I am actively seeking and applying to jobs relating to game design/development and software development.
+I'm a recent CS & DAS grad who is interested in freetime projects relating to games and art toys. Whenever I code for fun, it usually ends up on here.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
