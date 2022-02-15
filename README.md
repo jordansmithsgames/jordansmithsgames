@@ -1,20 +1,20 @@
 # Hi, I'm Jordan! 👋
 
-<!--
+
 <a href="https://github.com/jordansmithsgames/jordansmithsgames">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordansmithsgames&hide=shaderlab,hlsl&theme=dracula"/>
 </a>
 <a href="https://github.com/jordansmithsgames/jordansmithsgames">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordansmithsgames&show_icons=true&line_height=27&count_private=true&theme=dracula"/>
 </a>
--->
+
 I'm a recent CS & DAS grad who is interested in freetime projects relating to games and art toys. 
 
 Whenever I code for fun, it usually ends up on here.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 
-<!--
+
 ## More Webzones I Inhabit
 [![Personal Website](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](https://www.jordansmithsgames.com/ "Personal Website")
 [![Email](https://img.icons8.com/color/50/6EA0FD/gmail.png)](mailto:jordansmithsgames@gmail.com?subject=Hi%20Jordan! "Email")
@@ -32,8 +32,8 @@ Whenever I code for fun, it usually ends up on here.
 [![Unity](https://img.icons8.com/ios-filled/50/000/unity.png)](https://www.unity.com/)
 [![Maya](https://img.icons8.com/color/50/000/autodesk-maya.png)](https://www.autodesk.com/products/maya/overview?term=1-YEAR&support=null)
 <a href="https://www.substance3d.com/products/substance-painter/"><img src="/images/SUBSTANCE_ICON.png" width="43.5" height="50" alt="Substance Painter"></a>
--->
-<!--
+
+
 ## Browse My Projects
 <!--
 ### For Virtuix!
@@ -43,7 +43,7 @@ Whenever I code for fun, it usually ends up on here.
 [![VCP](https://img.shields.io/badge/🦷%20VCP%20-FF0)](https://github.com/jordansmithsgames/VCP)
 -->
 
-<!--
+
 ### MiDAS
 [![Spacemail](https://img.shields.io/badge/🚀%20Spacemail%20-800000)](https://github.com/jordansmithsgames/Spacemail)
 [![Scoot](https://img.shields.io/badge/🛵%20Scoot%20-800000)](https://github.com/jordansmithsgames/Scoot)
@@ -54,16 +54,16 @@ Whenever I code for fun, it usually ends up on here.
 [![Trash Simulator](https://img.shields.io/badge/🥤%20Trash%20Simulator%20-191970)](https://github.com/jordansmithsgames/TrashSimulator)
 [![VoteR](https://img.shields.io/badge/📮%20VoteR%20-191970)](https://github.com/jordansmithsgames/VoteR)
 
-<!--
+
 ### Android Apps
 [![Triforce Runner](https://img.shields.io/badge/🏃%20Triforce%20Runner%20-006400)](https://github.com/jordansmithsgames/TriforceRunner)
 [![RupeeCatch](https://img.shields.io/badge/💰%20Rupee%20Catch%20-006400)](https://github.com/jordansmithsgames/RupeeCatch)
 [![Weather Watch](https://img.shields.io/badge/❄️Weather%20Watch%20-006400)](https://github.com/jordansmithsgames/WeatherWatch)
 [![A Link to the Past GPS App](https://img.shields.io/badge/🌎%20A%20Link%20to%20the%20Past%20GPS%20App%20-006400)](https://github.com/jordansmithsgames/ALTTPGPSApp)
 [![Unit Converter App](https://img.shields.io/badge/📏%20Unit%20Converter%20App%20-006400)](https://github.com/jordansmithsgames/UnitConverterApp)
--->
 
-<!--
+
+
 ### 2D Games
 [![Blobby Boy](https://img.shields.io/badge/⚫%20Blobby%20Boy%20-000000)](https://github.com/jordansmithsgames/BlobbyBoy)
 [![Lightfoot](https://img.shields.io/badge/✨%20Lightfoot%20-000000)](https://github.com/jordansmithsgames/Lightfoot)
@@ -73,15 +73,15 @@ Whenever I code for fun, it usually ends up on here.
 ### AI, Algorithms, & Simulators
 [![Reversi AI](https://img.shields.io/badge/🔮%20Reversi%20AI%20-800080)](https://github.com/jordansmithsgames/ReversiAI)
 [![Path Planner](https://img.shields.io/badge/🧭%20Path%20Planner%20-800080)](https://github.com/jordansmithsgames/PathPlanner)
-[![Flocking](https://img.shields.io/badge/🐦%20Flocking%20-800080)](https://github.com/jordansmithsgames/Flocking) <!--[![Robocode](https://img.shields.io/badge/🥊%20Robocode%20-800080)](https://github.com/jordansmithsgames/Robocode) -->
-<!--
+[![Flocking](https://img.shields.io/badge/🐦%20Flocking%20-800080)](https://github.com/jordansmithsgames/Flocking)
+[![Robocode](https://img.shields.io/badge/🥊%20Robocode%20-800080)](https://github.com/jordansmithsgames/Robocode)
 [![Terrain Generator](https://img.shields.io/badge/🗻%20Terrain%20Generator%20-800080)](https://github.com/jordansmithsgames/TerrainGenerator)
-<!--[![Page Rank](https://img.shields.io/badge/🥇%20Page%20Rank%20-800080)](https://github.com/jordansmithsgames/PageRank)-->
+[![Page Rank](https://img.shields.io/badge/🥇%20Page%20Rank%20-800080)](https://github.com/jordansmithsgames/PageRank)
 
-<!--
+
 ### Unique projects!
 [![COVID-19 Speech Agent](https://img.shields.io/badge/🦠%20COVID--19%20Speech%20Agent%20-FF1493)](https://github.com/jordansmithsgames/COVID19SpeechAgent)
 [![$P](https://img.shields.io/badge/👋%20$P%20-FF1493)](https://github.com/jordansmithsgames/PDollar)
 [![Chomper](https://img.shields.io/badge/🐊%20Chomper%20-FF1493)](https://github.com/Team-7C/Concessions-App)
 [![Instant Messager](https://img.shields.io/badge/🔒%20Instant%20Messenger%20-FF1493)](https://github.com/jordansmithsgames/InstantMessenger)
--->
+
