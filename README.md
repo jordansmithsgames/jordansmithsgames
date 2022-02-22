@@ -12,7 +12,9 @@ I'm a recent CS & DAS grad who is interested in freetime projects relating to ga
 
 Whenever I code for fun, it usually ends up on here.
 
+<!--
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
+-->
 
 ## More Webzones I Inhabit
 <!--
