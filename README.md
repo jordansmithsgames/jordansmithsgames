@@ -16,8 +16,8 @@ Whenever I code for fun, it usually ends up on here.
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 -->
 
-## More Webzones I Inhabit
 <!--
+## More Webzones I Inhabit
 [![Personal Website](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](https://www.jordansmithsgames.com/ "Personal Website")
 [![Email](https://img.icons8.com/color/50/6EA0FD/gmail.png)](mailto:jordansmithsgames@gmail.com?subject=Hi%20Jordan! "Email")
 -->
