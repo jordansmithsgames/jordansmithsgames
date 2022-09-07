@@ -1,5 +1,4 @@
 # Hi, I'm Jordan! 👋
-
 <!--
 <a href="https://github.com/jordansmithsgames/jordansmithsgames">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordansmithsgames&hide=shaderlab,hlsl&theme=dracula"/>
@@ -8,9 +7,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordansmithsgames&show_icons=true&line_height=27&count_private=true&theme=dracula"/>
 </a>
 -->
-I'm a recent CS & DAS grad who is interested in freetime projects relating to games and art toys. 
 
-Whenever I code for fun, it usually ends up on here.
+I'm a game developer and software engineer interested in games and art toys. 
+
+Whenever I code for fun, it usually ends up on here!
 
 <!--
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
@@ -48,8 +48,8 @@ Whenever I code for fun, it usually ends up on here.
 [![VRobot](https://img.shields.io/badge/🤖%20VRobot%20-FF0)](https://github.com/jordansmithsgames/VRobot) 
 [![VCP](https://img.shields.io/badge/🦷%20VCP%20-FF0)](https://github.com/jordansmithsgames/VCP)
 -->
-<!--
-### MiDAS
+
+### MiDAS Projects
 [![Spacemail](https://img.shields.io/badge/🚀%20Spacemail%20-800000)](https://github.com/jordansmithsgames/Spacemail)
 [![Scoot](https://img.shields.io/badge/🛵%20Scoot%20-800000)](https://github.com/jordansmithsgames/Scoot)
 [![VSP](https://img.shields.io/badge/💬%20VSP%20-800000)](https://github.com/jordansmithsgames/VSP)
@@ -80,4 +80,4 @@ Whenever I code for fun, it usually ends up on here.
 [![$P](https://img.shields.io/badge/👋%20$P%20-FF1493)](https://github.com/jordansmithsgames/PDollar)
 [![Chomper](https://img.shields.io/badge/🐊%20Chomper%20-FF1493)](https://github.com/Team-7C/Concessions-App)
 [![Instant Messager](https://img.shields.io/badge/🔒%20Instant%20Messenger%20-FF1493)](https://github.com/jordansmithsgames/InstantMessenger)
--->
+
