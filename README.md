@@ -10,22 +10,22 @@
 
 I'm a game developer and software engineer interested in games and art toys. 
 
-Whenever I code for fun, it usually ends up on here!
+Whenever I code for fun, it usually ends up on here. 🙂
 
 <!--
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jordansmithsgames/jordansmithsgames)
 -->
 
-# Webzones I Inhabit
+<!-- # Webzones I Inhabit -->
 <!--
 [![Personal Website](https://img.icons8.com/color/50/6EA0FD/working-with-a-laptop.png)](https://www.jordansmithsgames.com/ "Personal Website")
 -->
-[![Email](https://img.icons8.com/color/50/6EA0FD/gmail.png)](mailto:jordansmithsgames@gmail.com?subject=Hi%20Jordan! "Email")
+<!-- [![Email](https://img.icons8.com/color/50/6EA0FD/gmail.png)](mailto:jordansmithsgames@gmail.com?subject=Hi%20Jordan! "Email")
 [![LinkedIn Profile](https://img.icons8.com/color/50/6EA0FD/linkedin.png)](https://www.linkedin.com/in/jordansmithsgames/ "LinkedIn Profile")
 [![Devpost Profile](https://img.icons8.com/color/50/6EA0FD/dev-post.png)](https://www.devpost.com/jordansmithsgames "Devpost Profile")
 [![Artstation Profile](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames "Artstation Profile")
 [![Sketchfab Profile](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://www.sketchfab.com/jordansmithsgames "Sketchfab Profile")
-
+ -->
 
 # Languages & Tools
 [![C++](https://img.icons8.com/color/50/000/c-plus-plus-logo.png)](https://www.cplusplus.com/)
