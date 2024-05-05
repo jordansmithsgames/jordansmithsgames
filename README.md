@@ -26,16 +26,14 @@ Whenever I code for fun, it usually ends up on here. 🙂
 [![Artstation Profile](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames "Artstation Profile")
 [![Sketchfab Profile](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://www.sketchfab.com/jordansmithsgames "Sketchfab Profile")
  -->
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png
 # Languages & Tools
 [![C++](https://img.icons8.com/color/50/000/c-plus-plus-logo.png)](https://www.cplusplus.com/)
 [![C#](https://img.icons8.com/color/50/000/c-sharp-logo-2.png)](https://www.docs.microsoft.com/en-us/dotnet/csharp/)
 <a href="https://www.processing.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" width="50" height="50" alt="Processing"></a>
 [![Python](https://img.icons8.com/color/50/000/python.png)](https://www.python.org/)
-[![Java](https://img.icons8.com/color/50/000/java.png)](https://www.java.com/en/)
-[![Unity](https://img.icons8.com/ios-filled/50/000/unity.png)](https://www.unity.com/)
-[![Maya](https://img.icons8.com/color/50/000/autodesk-maya.png)](https://www.autodesk.com/products/maya/overview?term=1-YEAR&support=null)
-<a href="https://www.substance3d.com/products/substance-painter/"><img src="/images/SUBSTANCE_ICON.png" width="43.5" height="50" alt="Substance Painter"></a>
+<a href="https://www.unity.com/"><img src="https://i.redd.it/tu3gt6ysfxq71.png" width="50" height="50" alt="Godot"></a>
+<a href="https://www.godotengine.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" width="50" height="50" alt="Godot"></a>
 
 # Projects
 <!--
