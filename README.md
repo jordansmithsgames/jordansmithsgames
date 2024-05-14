@@ -26,7 +26,7 @@ Whenever I code for fun, it usually ends up on here. 🙂
 [![Artstation Profile](https://img.icons8.com/color/50/6EA0FD/artstation.png)](https://www.artstation.com/jordansmithsgames "Artstation Profile")
 [![Sketchfab Profile](https://img.icons8.com/ios/50/6EA0FD/sketchfab.png)](https://www.sketchfab.com/jordansmithsgames "Sketchfab Profile")
  -->
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png
+
 # Languages & Tools
 [![C++](https://img.icons8.com/color/50/000/c-plus-plus-logo.png)](https://www.cplusplus.com/)
 [![C#](https://img.icons8.com/color/50/000/c-sharp-logo-2.png)](https://www.docs.microsoft.com/en-us/dotnet/csharp/)
